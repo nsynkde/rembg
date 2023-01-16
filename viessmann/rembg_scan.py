@@ -5,7 +5,6 @@ from watchdog.events import FileSystemEventHandler
 from pathlib import Path
 from rembg import remove, new_session
 
-import os
 from os import path
 from PIL import Image
 

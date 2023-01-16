@@ -1,0 +1,2 @@
+conda activate rembg
+python -u D:\NSYNK\rembg\viessmann\rembg_scan.py |Tee-Object "D:\NSYNK\rembg\viessmann\$(get-date -f yyyyMMdd_HHmmss).txt"
